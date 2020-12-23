@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coin-flip-exercise/static/css/main.8b360bb4.chunk.css",
+    "main.js": "/coin-flip-exercise/static/js/main.11c1a871.chunk.js",
+    "main.js.map": "/coin-flip-exercise/static/js/main.11c1a871.chunk.js.map",
+    "runtime-main.js": "/coin-flip-exercise/static/js/runtime-main.4b1018d7.js",
+    "runtime-main.js.map": "/coin-flip-exercise/static/js/runtime-main.4b1018d7.js.map",
+    "static/js/2.c04ab6e4.chunk.js": "/coin-flip-exercise/static/js/2.c04ab6e4.chunk.js",
+    "static/js/2.c04ab6e4.chunk.js.map": "/coin-flip-exercise/static/js/2.c04ab6e4.chunk.js.map",
+    "index.html": "/coin-flip-exercise/index.html",
+    "precache-manifest.cc76d28d570672b7cbc3156deaa126b0.js": "/coin-flip-exercise/precache-manifest.cc76d28d570672b7cbc3156deaa126b0.js",
+    "service-worker.js": "/coin-flip-exercise/service-worker.js",
+    "static/css/main.8b360bb4.chunk.css.map": "/coin-flip-exercise/static/css/main.8b360bb4.chunk.css.map",
+    "static/js/2.c04ab6e4.chunk.js.LICENSE.txt": "/coin-flip-exercise/static/js/2.c04ab6e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b1018d7.js",
+    "static/js/2.c04ab6e4.chunk.js",
+    "static/css/main.8b360bb4.chunk.css",
+    "static/js/main.11c1a871.chunk.js"
+  ]
+}
